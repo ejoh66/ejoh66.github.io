@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meet the Engineer</title>
-    <link>https://examplesite.com/</link>
+    <link>https://ejoh66.github.io/</link>
     <description>Recent content on Meet the Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Johannesmeyer</copyright>
     
-	<atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ejoh66.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
